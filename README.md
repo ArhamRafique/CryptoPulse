@@ -1,7 +1,3 @@
-Here is a **clean, professional, copy-paste ready README.md**, perfectly arranged for GitHub.
-You can paste this **directly** into your README without changing anything 👇
-
----
 # 🚀 CryptoPulse – Bitcoin Price Tracker App
 
 CryptoPulse is a modern Android application that provides **real-time Bitcoin price tracking**, **historical trends**, and **market insights**.  
@@ -98,8 +94,6 @@ This project is licensed under the **MIT License**.
 Android Developer | Kotlin | Jetpack Compose
 
 ⭐ If you like this project, don’t forget to **star the repository**!
-
-````
 
 
 
