@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Crypto</string>
+    <string name="search_coins">Search Coins</string>
+    <string name="refreshing">Refreshing..</string>
+    <string name="market_cap">Market Cap</string>
+    <string name="price">Price</string>
+    <string name="change_last_24h">Change Last 24h</string>
+    <string name="volume_price_last_24h">Volume Price Last 24h</string>
+    <string name="max_supply">Max Supply</string>
+    <string name="vwap">Volume-Weighted Average Price</string>
+    <string name="favourite_coins">Favourite Coins</string>
+    <string name="no_favourite_coins_found">No Favourite Coins found.</string>
+    <string name="no_coins_found">No Coins found!</string>
+</resources>
